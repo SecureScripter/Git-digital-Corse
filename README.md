@@ -1,1 +1,3 @@
-# Git-digital-Corse
+# Curso Digital: Git/Versionamento
+
+## Salvando modoficações no Git
